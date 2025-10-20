@@ -1,0 +1,12 @@
+{
+  "name": "stage-1-task",
+  "version": "1.0.0",
+  "description": "HNG DevOps Stage 1 Task app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
